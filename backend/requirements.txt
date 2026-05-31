@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+supabase
+pinecone
+python-dotenv
+openai
+praw
+mcp
+google-generativeai
+google-genai
+celery
+redis
+python-json-logger

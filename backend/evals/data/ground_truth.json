@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Ergonomic Chairs",
+    "expected_gaps": ["lumbar support", "breathable mesh", "adjustable armrests"],
+    "expected_price_range": [150, 400],
+    "ground_truth_opportunity": "Heavy-duty 400lb+ capacity with cooling gel cushion"
+  },
+  {
+    "category": "Mechanical Keyboards",
+    "expected_gaps": ["hot-swappable", "wireless latency", "custom keycaps"],
+    "expected_price_range": [50, 200],
+    "ground_truth_opportunity": "Ultra-low profile optical switches with sound-dampening foam"
+  }
+]
