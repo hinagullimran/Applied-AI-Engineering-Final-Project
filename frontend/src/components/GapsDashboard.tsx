@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Search, TrendingUp, AlertCircle, ShoppingBag, ArrowRight, BarChart2, Magnet, Calculator, DollarSign, PackageSearch, PenTool, Sparkles, Filter, Crown, Check, Zap, LogOut, User, Lock, CreditCard, Save } from "lucide-react";
+import { Search, TrendingUp, AlertCircle, ShoppingBag, ArrowRight, BarChart2, Magnet, Calculator, DollarSign, PackageSearch, PenTool, Sparkles, Filter, Crown, Check, Zap, LogOut, User, Lock, CreditCard, Save, Brain } from "lucide-react";
 import { supabase } from "@/lib/supabase";
 import PipelineProgress, { AgentStatus } from "./PipelineProgress";
 import { v4 as uuidv4 } from "uuid";
